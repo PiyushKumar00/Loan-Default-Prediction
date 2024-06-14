@@ -13,7 +13,6 @@ This project aims to predict loan defaults using a machine learning model and vi
 4. Visualize in Power BI: Import the predicted dataset into Power BI and create visualizations for client reporting.
 
 ## Table of Contents    
-1. [Introduction](#introduction)
 2. [Data Description](#data-description)
 3. [Methodology](#methodology)
 4. [Results](#results)
@@ -21,16 +20,22 @@ This project aims to predict loan defaults using a machine learning model and vi
 6. [Conclusion](#conclusion)
 7. [How to Run](#how-to-run)
 
-## Introduction
-Provide a detailed explanation of the project's motivation, goals, and context.
+
 
 
 ## About the dataset:
  This dataset contains information about the credit landscape (credit loan
-provided to customers) of a large Singapore bank
+provided to customers) of a large Singapore bank as -- (checking_balance,	months_loan_duration	,credit_history,purpose	,amount	,savings_balance	,employment_duration,	percent_of_income,	years_at_residence,	age,	other_credit	,housing,	existing_loans_count,	dependents	 and default )
+
+where default is the target variable
+
 
 ## Methodology
-Outline the steps taken to process the data, engineer features, and build the machine learning model.
+ 
+
+
+
+
 
 ## Results
 Summarize the key findings and model performance metrics.
